@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 75%;
+    font: normal 16px 'Roboto', sans-serif;
+    color: #343131;
+    background-color: #e8dbdb;   
+} 
+.avatar{
+    display: flex;
+    padding: 20px;
+    margin: 10px 20px;
+}
+#avatar {
+    width: 250px; 
+}
+
+.avatar-text {
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.img{
+    max-width: 750px;
+}
+.avatar-text h1{
+    padding: 20px;  
+}
+.avatar-text p {
+    padding: 10px;
+}
+.net h2, h3{
+    margin: 0px;
+    padding: 20px 0px 0px 20px;
+    font-size: 20px;
+    width: 50%;
+}
+.net ul{
+    margin: 0px 0px 0px 30px;
+    padding: 10px 0px 0px 20px;
+    font-size: 18px;
+}
+#about_me{
+    margin: 0px;
+    padding: 20px 0px 0px 20px;
+    font-size: 20px;
+}
+.about_me {
+    padding: 10px 0px 0px 30px;
+    
+}
+
+.contacts {
+    border: 2px solid #343131;
+    width: 50%;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+#call {
+    margin: 0px;
+    padding: 0px 0px 20px 0px;
+    font-size: 20px;
+    text-align: center;
+}
+.form{
+    text-align: left;
+    padding: 20px 0px 0px 20px;
+}
+.button{
+        text-align: right;
+        
+}
